@@ -1,2 +1,2 @@
 # CodeForce-Problemsets
-This is mostly for my solutions to the problems on CodeForces
+These are my solutions to CodeForces Problems, Currently in 800-1000 bracket aiming for higher
